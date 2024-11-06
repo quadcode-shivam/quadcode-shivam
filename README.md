@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <!-- Make sure the image URL is correct and accessible -->
-    <img src="https://personalportfolio-5tub.onrender.com/static/media/shivam.bbd95761.png" style="height: 350px;">
+    <img src="https://raw.githubusercontent.com/quadcode-shivam/portfolio-1/refs/heads/main/images/image.png" style="height: 550px;">
 </p>
 
 
