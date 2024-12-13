@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 **Current Projects:** Working on **EMS, TMS, AMS**
+- 🔭 **Current Projects:**  **EMS, TMS, AMS, Service Company projects** -- REACTJS ,NEXTJS, LARAVEL, PHP, RESTFUL APIs, SOAP API
 - 🌱 **Learning:** React.js, Laravel, and Central Code Optimization
 - 👯 **Open to Collaborate:** Always interested in working on exciting new projects
 - 👨‍💻 **Portfolio:** [Visit Here](https://personalportfolio-5tub.onrender.com/home)
